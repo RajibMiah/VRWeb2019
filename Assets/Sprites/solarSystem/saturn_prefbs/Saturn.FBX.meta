@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 1d09bce865666a54fa23aa21fba7cc55
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Dione
+    100002: Dione-orbit
+    100004: Enceladus
+    100006: Enceladus-orbit
+    100008: Jupiter
+    100010: Rhea
+    100012: Rhea-orbit
+    100014: //RootNode
+    100016: Tethys
+    100018: Tethys-orbit
+    100020: Tube001
+    400000: Dione
+    400002: Dione-orbit
+    400004: Enceladus
+    400006: Enceladus-orbit
+    400008: Jupiter
+    400010: Rhea
+    400012: Rhea-orbit
+    400014: //RootNode
+    400016: Tethys
+    400018: Tethys-orbit
+    400020: Tube001
+    2100000: Saturn
+    2100002: Enceladus
+    2100004: Tethys
+    2100006: Dione
+    2100008: Rhea
+    2100010: Saturn-RING
+    2300000: Dione
+    2300002: Enceladus
+    2300004: Jupiter
+    2300006: Rhea
+    2300008: Tethys
+    2300010: Tube001
+    3300000: Dione
+    3300002: Enceladus
+    3300004: Jupiter
+    3300006: Rhea
+    3300008: Tethys
+    3300010: Tube001
+    4300000: Jupiter
+    4300002: Enceladus
+    4300004: Tethys
+    4300006: Dione
+    4300008: Rhea
+    4300010: Tube001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

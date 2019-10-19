@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: ef6f5a334bb4a684da0b1fc79e10ec8d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Dione
+    100002: Dione-orbit
+    100004: Enceladus
+    100006: Enceladus-orbit
+    100008: Rhea
+    100010: Rhea-orbit
+    100012: RING
+    100014: Saturn
+    100016: //RootNode
+    100018: Tethys
+    100020: Tethys-orbit
+    100022: Titan
+    100024: Titan-orbit
+    400000: Dione
+    400002: Dione-orbit
+    400004: Enceladus
+    400006: Enceladus-orbit
+    400008: Rhea
+    400010: Rhea-orbit
+    400012: RING
+    400014: //RootNode
+    400016: Saturn
+    400018: Tethys
+    400020: Tethys-orbit
+    400022: Titan
+    400024: Titan-orbit
+    2100000: Saturn
+    2100002: Enceladus
+    2100004: Tethys
+    2100006: Dione
+    2100008: Rhea
+    2100010: Saturn-RING
+    2100012: Titan
+    2300000: Dione
+    2300002: Enceladus
+    2300004: Rhea
+    2300006: RING
+    2300008: Saturn
+    2300010: Tethys
+    2300012: Titan
+    3300000: Dione
+    3300002: Enceladus
+    3300004: Rhea
+    3300006: RING
+    3300008: Saturn
+    3300010: Tethys
+    3300012: Titan
+    4300000: Saturn
+    4300002: Enceladus
+    4300004: Tethys
+    4300006: Dione
+    4300008: Rhea
+    4300010: RING
+    4300012: Titan
+    7400000: Saturn
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Saturn
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

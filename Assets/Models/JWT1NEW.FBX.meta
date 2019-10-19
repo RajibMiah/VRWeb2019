@@ -1,0 +1,1031 @@
+fileFormatVersion: 2
+guid: c1ac182528fb34445b3e713329e1eff3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 001
+    100002: 004
+    100004: 005
+    100006: 1
+    100008: 1 1
+    100010: 1 2
+    100012: 1 3
+    100014: 1 4
+    100016: 1.1
+    100018: 1.2
+    100020: 1.9
+    100022: 2
+    100024: 2 1
+    100026: 2 2
+    100028: 3
+    100030: 4
+    100032: 5
+    100034: BL
+    100036: Boost
+    100038: Bottom
+    100040: BR
+    100042: Camera001
+    100044: Camera001.Target
+    100046: Camera002
+    100048: Camera002.Target
+    100050: Engine1
+    100052: Engine2
+    100054: EXT-L
+    100056: EXT-R
+    100058: group13 g1
+    100060: group13 g5
+    100062: group13 g6
+    100064: group13 gr
+    100066: HG Antenna
+    100068: Inner1
+    100070: Inner2
+    100072: JWT
+    100074: //RootNode
+    100076: L
+    100078: LegMID
+    100080: LegTOP
+    100082: Miroir secondaire
+    100084: Mirrors
+    100086: Momentum TT
+    100088: Plate
+    100090: polySurfac
+    100092: R
+    100094: Radiator
+    100096: s_v_1
+    100098: s_v_1 1
+    100100: s_v_1 2
+    100102: s_v_10
+    100104: s_v_10 1
+    100106: s_v_10 2
+    100108: s_v_100
+    100110: s_v_101
+    100112: s_v_102
+    100114: s_v_103
+    100116: s_v_104
+    100118: s_v_105
+    100120: s_v_106
+    100122: s_v_107
+    100124: s_v_108
+    100126: s_v_109
+    100128: s_v_11
+    100130: s_v_11 1
+    100132: s_v_11 2
+    100134: s_v_110
+    100136: s_v_111
+    100138: s_v_112
+    100140: s_v_113
+    100142: s_v_114
+    100144: s_v_115
+    100146: s_v_116
+    100148: s_v_117
+    100150: s_v_118
+    100152: s_v_119
+    100154: s_v_12
+    100156: s_v_12 1
+    100158: s_v_12 2
+    100160: s_v_120
+    100162: s_v_13
+    100164: s_v_13 1
+    100166: s_v_13 2
+    100168: s_v_14
+    100170: s_v_14 1
+    100172: s_v_14 2
+    100174: s_v_15
+    100176: s_v_15 1
+    100178: s_v_15 2
+    100180: s_v_16
+    100182: s_v_16 1
+    100184: s_v_16 2
+    100186: s_v_17
+    100188: s_v_17 1
+    100190: s_v_17 2
+    100192: s_v_18
+    100194: s_v_18 1
+    100196: s_v_18 2
+    100198: s_v_19
+    100200: s_v_19 1
+    100202: s_v_19 2
+    100204: s_v_2
+    100206: s_v_2 1
+    100208: s_v_2 2
+    100210: s_v_20
+    100212: s_v_20 1
+    100214: s_v_20 2
+    100216: s_v_21
+    100218: s_v_21 1
+    100220: s_v_21 2
+    100222: s_v_22
+    100224: s_v_22 1
+    100226: s_v_22 2
+    100228: s_v_23
+    100230: s_v_23 1
+    100232: s_v_23 2
+    100234: s_v_24
+    100236: s_v_24 1
+    100238: s_v_24 2
+    100240: s_v_25
+    100242: s_v_25 1
+    100244: s_v_25 2
+    100246: s_v_26
+    100248: s_v_26 1
+    100250: s_v_26 2
+    100252: s_v_27
+    100254: s_v_27 1
+    100256: s_v_27 2
+    100258: s_v_28
+    100260: s_v_28 1
+    100262: s_v_28 2
+    100264: s_v_29
+    100266: s_v_29 1
+    100268: s_v_29 2
+    100270: s_v_3
+    100272: s_v_3 1
+    100274: s_v_3 2
+    100276: s_v_30
+    100278: s_v_30 1
+    100280: s_v_30 2
+    100282: s_v_31
+    100284: s_v_31 1
+    100286: s_v_31 2
+    100288: s_v_32
+    100290: s_v_32 1
+    100292: s_v_32 2
+    100294: s_v_33
+    100296: s_v_33 1
+    100298: s_v_33 2
+    100300: s_v_34
+    100302: s_v_34 1
+    100304: s_v_34 2
+    100306: s_v_35
+    100308: s_v_35 1
+    100310: s_v_35 2
+    100312: s_v_36
+    100314: s_v_36 1
+    100316: s_v_36 2
+    100318: s_v_37
+    100320: s_v_37 1
+    100322: s_v_37 2
+    100324: s_v_38
+    100326: s_v_38 1
+    100328: s_v_38 2
+    100330: s_v_39
+    100332: s_v_39 1
+    100334: s_v_39 2
+    100336: s_v_4
+    100338: s_v_4 1
+    100340: s_v_4 2
+    100342: s_v_40
+    100344: s_v_40 1
+    100346: s_v_40 2
+    100348: s_v_41
+    100350: s_v_41 1
+    100352: s_v_41 2
+    100354: s_v_42
+    100356: s_v_42 1
+    100358: s_v_42 2
+    100360: s_v_43
+    100362: s_v_43 1
+    100364: s_v_43 2
+    100366: s_v_44
+    100368: s_v_44 1
+    100370: s_v_44 2
+    100372: s_v_45
+    100374: s_v_45 1
+    100376: s_v_45 2
+    100378: s_v_46
+    100380: s_v_46 1
+    100382: s_v_46 2
+    100384: s_v_47
+    100386: s_v_47 1
+    100388: s_v_47 2
+    100390: s_v_48
+    100392: s_v_48 1
+    100394: s_v_48 2
+    100396: s_v_49
+    100398: s_v_49 1
+    100400: s_v_49 2
+    100402: s_v_5
+    100404: s_v_5 1
+    100406: s_v_5 2
+    100408: s_v_50
+    100410: s_v_50 1
+    100412: s_v_50 2
+    100414: s_v_51
+    100416: s_v_51 1
+    100418: s_v_51 2
+    100420: s_v_52
+    100422: s_v_52 1
+    100424: s_v_52 2
+    100426: s_v_53
+    100428: s_v_53 1
+    100430: s_v_53 2
+    100432: s_v_54
+    100434: s_v_54 1
+    100436: s_v_54 2
+    100438: s_v_55
+    100440: s_v_55 1
+    100442: s_v_55 2
+    100444: s_v_56
+    100446: s_v_56 1
+    100448: s_v_56 2
+    100450: s_v_57
+    100452: s_v_57 1
+    100454: s_v_57 2
+    100456: s_v_58
+    100458: s_v_58 1
+    100460: s_v_58 2
+    100462: s_v_59
+    100464: s_v_59 1
+    100466: s_v_59 2
+    100468: s_v_6
+    100470: s_v_6 1
+    100472: s_v_6 2
+    100474: s_v_60
+    100476: s_v_60 1
+    100478: s_v_60 2
+    100480: s_v_61
+    100482: s_v_61 1
+    100484: s_v_61 2
+    100486: s_v_62
+    100488: s_v_62 1
+    100490: s_v_62 2
+    100492: s_v_63
+    100494: s_v_63 1
+    100496: s_v_63 2
+    100498: s_v_64
+    100500: s_v_64 1
+    100502: s_v_64 2
+    100504: s_v_65
+    100506: s_v_65 1
+    100508: s_v_65 2
+    100510: s_v_66
+    100512: s_v_66 1
+    100514: s_v_66 2
+    100516: s_v_67
+    100518: s_v_67 1
+    100520: s_v_67 2
+    100522: s_v_68
+    100524: s_v_68 1
+    100526: s_v_68 2
+    100528: s_v_69
+    100530: s_v_69 1
+    100532: s_v_69 2
+    100534: s_v_7
+    100536: s_v_7 1
+    100538: s_v_7 2
+    100540: s_v_70
+    100542: s_v_70 1
+    100544: s_v_70 2
+    100546: s_v_71
+    100548: s_v_71 1
+    100550: s_v_71 2
+    100552: s_v_72
+    100554: s_v_72 1
+    100556: s_v_72 2
+    100558: s_v_73
+    100560: s_v_73 1
+    100562: s_v_73 2
+    100564: s_v_74
+    100566: s_v_74 1
+    100568: s_v_74 2
+    100570: s_v_75
+    100572: s_v_75 1
+    100574: s_v_75 2
+    100576: s_v_76
+    100578: s_v_76 1
+    100580: s_v_76 2
+    100582: s_v_77
+    100584: s_v_77 1
+    100586: s_v_77 2
+    100588: s_v_78
+    100590: s_v_78 1
+    100592: s_v_78 2
+    100594: s_v_79
+    100596: s_v_79 1
+    100598: s_v_79 2
+    100600: s_v_8
+    100602: s_v_8 1
+    100604: s_v_8 2
+    100606: s_v_80
+    100608: s_v_80 1
+    100610: s_v_80 2
+    100612: s_v_81
+    100614: s_v_82
+    100616: s_v_83
+    100618: s_v_84
+    100620: s_v_85
+    100622: s_v_86
+    100624: s_v_87
+    100626: s_v_88
+    100628: s_v_89
+    100630: s_v_9
+    100632: s_v_9 1
+    100634: s_v_9 2
+    100636: s_v_90
+    100638: s_v_91
+    100640: s_v_92
+    100642: s_v_93
+    100644: s_v_94
+    100646: s_v_95
+    100648: s_v_96
+    100650: s_v_97
+    100652: s_v_98
+    100654: s_v_99
+    100656: Shell
+    100658: SHIP
+    100660: SL
+    100662: Solar panel
+    100664: SR
+    100666: SSSL
+    100668: SSSR
+    100670: Star Tracker
+    100672: SunShield
+    100674: SunShield0
+    100676: SunShieldL
+    100678: SunShieldR
+    100680: Support-L
+    100682: Support-R
+    100684: Thruster
+    100686: Top
+    100688: UPS
+    100690: UPS-L
+    100692: UPS-R
+    100694: XBOOST
+    400000: 001
+    400002: 004
+    400004: 005
+    400006: 1
+    400008: 1 1
+    400010: 1 2
+    400012: 1 3
+    400014: 1 4
+    400016: 1.1
+    400018: 1.2
+    400020: 1.9
+    400022: 2
+    400024: 2 1
+    400026: 2 2
+    400028: 3
+    400030: 4
+    400032: 5
+    400034: BL
+    400036: Boost
+    400038: Bottom
+    400040: BR
+    400042: Camera001
+    400044: Camera001.Target
+    400046: Camera002
+    400048: Camera002.Target
+    400050: Engine1
+    400052: Engine2
+    400054: EXT-L
+    400056: EXT-R
+    400058: group13 g1
+    400060: group13 g5
+    400062: group13 g6
+    400064: group13 gr
+    400066: HG Antenna
+    400068: Inner1
+    400070: Inner2
+    400072: JWT
+    400074: //RootNode
+    400076: L
+    400078: LegMID
+    400080: LegTOP
+    400082: Miroir secondaire
+    400084: Mirrors
+    400086: Momentum TT
+    400088: Plate
+    400090: polySurfac
+    400092: R
+    400094: Radiator
+    400096: s_v_1
+    400098: s_v_1 1
+    400100: s_v_1 2
+    400102: s_v_10
+    400104: s_v_10 1
+    400106: s_v_10 2
+    400108: s_v_100
+    400110: s_v_101
+    400112: s_v_102
+    400114: s_v_103
+    400116: s_v_104
+    400118: s_v_105
+    400120: s_v_106
+    400122: s_v_107
+    400124: s_v_108
+    400126: s_v_109
+    400128: s_v_11
+    400130: s_v_11 1
+    400132: s_v_11 2
+    400134: s_v_110
+    400136: s_v_111
+    400138: s_v_112
+    400140: s_v_113
+    400142: s_v_114
+    400144: s_v_115
+    400146: s_v_116
+    400148: s_v_117
+    400150: s_v_118
+    400152: s_v_119
+    400154: s_v_12
+    400156: s_v_12 1
+    400158: s_v_12 2
+    400160: s_v_120
+    400162: s_v_13
+    400164: s_v_13 1
+    400166: s_v_13 2
+    400168: s_v_14
+    400170: s_v_14 1
+    400172: s_v_14 2
+    400174: s_v_15
+    400176: s_v_15 1
+    400178: s_v_15 2
+    400180: s_v_16
+    400182: s_v_16 1
+    400184: s_v_16 2
+    400186: s_v_17
+    400188: s_v_17 1
+    400190: s_v_17 2
+    400192: s_v_18
+    400194: s_v_18 1
+    400196: s_v_18 2
+    400198: s_v_19
+    400200: s_v_19 1
+    400202: s_v_19 2
+    400204: s_v_2
+    400206: s_v_2 1
+    400208: s_v_2 2
+    400210: s_v_20
+    400212: s_v_20 1
+    400214: s_v_20 2
+    400216: s_v_21
+    400218: s_v_21 1
+    400220: s_v_21 2
+    400222: s_v_22
+    400224: s_v_22 1
+    400226: s_v_22 2
+    400228: s_v_23
+    400230: s_v_23 1
+    400232: s_v_23 2
+    400234: s_v_24
+    400236: s_v_24 1
+    400238: s_v_24 2
+    400240: s_v_25
+    400242: s_v_25 1
+    400244: s_v_25 2
+    400246: s_v_26
+    400248: s_v_26 1
+    400250: s_v_26 2
+    400252: s_v_27
+    400254: s_v_27 1
+    400256: s_v_27 2
+    400258: s_v_28
+    400260: s_v_28 1
+    400262: s_v_28 2
+    400264: s_v_29
+    400266: s_v_29 1
+    400268: s_v_29 2
+    400270: s_v_3
+    400272: s_v_3 1
+    400274: s_v_3 2
+    400276: s_v_30
+    400278: s_v_30 1
+    400280: s_v_30 2
+    400282: s_v_31
+    400284: s_v_31 1
+    400286: s_v_31 2
+    400288: s_v_32
+    400290: s_v_32 1
+    400292: s_v_32 2
+    400294: s_v_33
+    400296: s_v_33 1
+    400298: s_v_33 2
+    400300: s_v_34
+    400302: s_v_34 1
+    400304: s_v_34 2
+    400306: s_v_35
+    400308: s_v_35 1
+    400310: s_v_35 2
+    400312: s_v_36
+    400314: s_v_36 1
+    400316: s_v_36 2
+    400318: s_v_37
+    400320: s_v_37 1
+    400322: s_v_37 2
+    400324: s_v_38
+    400326: s_v_38 1
+    400328: s_v_38 2
+    400330: s_v_39
+    400332: s_v_39 1
+    400334: s_v_39 2
+    400336: s_v_4
+    400338: s_v_4 1
+    400340: s_v_4 2
+    400342: s_v_40
+    400344: s_v_40 1
+    400346: s_v_40 2
+    400348: s_v_41
+    400350: s_v_41 1
+    400352: s_v_41 2
+    400354: s_v_42
+    400356: s_v_42 1
+    400358: s_v_42 2
+    400360: s_v_43
+    400362: s_v_43 1
+    400364: s_v_43 2
+    400366: s_v_44
+    400368: s_v_44 1
+    400370: s_v_44 2
+    400372: s_v_45
+    400374: s_v_45 1
+    400376: s_v_45 2
+    400378: s_v_46
+    400380: s_v_46 1
+    400382: s_v_46 2
+    400384: s_v_47
+    400386: s_v_47 1
+    400388: s_v_47 2
+    400390: s_v_48
+    400392: s_v_48 1
+    400394: s_v_48 2
+    400396: s_v_49
+    400398: s_v_49 1
+    400400: s_v_49 2
+    400402: s_v_5
+    400404: s_v_5 1
+    400406: s_v_5 2
+    400408: s_v_50
+    400410: s_v_50 1
+    400412: s_v_50 2
+    400414: s_v_51
+    400416: s_v_51 1
+    400418: s_v_51 2
+    400420: s_v_52
+    400422: s_v_52 1
+    400424: s_v_52 2
+    400426: s_v_53
+    400428: s_v_53 1
+    400430: s_v_53 2
+    400432: s_v_54
+    400434: s_v_54 1
+    400436: s_v_54 2
+    400438: s_v_55
+    400440: s_v_55 1
+    400442: s_v_55 2
+    400444: s_v_56
+    400446: s_v_56 1
+    400448: s_v_56 2
+    400450: s_v_57
+    400452: s_v_57 1
+    400454: s_v_57 2
+    400456: s_v_58
+    400458: s_v_58 1
+    400460: s_v_58 2
+    400462: s_v_59
+    400464: s_v_59 1
+    400466: s_v_59 2
+    400468: s_v_6
+    400470: s_v_6 1
+    400472: s_v_6 2
+    400474: s_v_60
+    400476: s_v_60 1
+    400478: s_v_60 2
+    400480: s_v_61
+    400482: s_v_61 1
+    400484: s_v_61 2
+    400486: s_v_62
+    400488: s_v_62 1
+    400490: s_v_62 2
+    400492: s_v_63
+    400494: s_v_63 1
+    400496: s_v_63 2
+    400498: s_v_64
+    400500: s_v_64 1
+    400502: s_v_64 2
+    400504: s_v_65
+    400506: s_v_65 1
+    400508: s_v_65 2
+    400510: s_v_66
+    400512: s_v_66 1
+    400514: s_v_66 2
+    400516: s_v_67
+    400518: s_v_67 1
+    400520: s_v_67 2
+    400522: s_v_68
+    400524: s_v_68 1
+    400526: s_v_68 2
+    400528: s_v_69
+    400530: s_v_69 1
+    400532: s_v_69 2
+    400534: s_v_7
+    400536: s_v_7 1
+    400538: s_v_7 2
+    400540: s_v_70
+    400542: s_v_70 1
+    400544: s_v_70 2
+    400546: s_v_71
+    400548: s_v_71 1
+    400550: s_v_71 2
+    400552: s_v_72
+    400554: s_v_72 1
+    400556: s_v_72 2
+    400558: s_v_73
+    400560: s_v_73 1
+    400562: s_v_73 2
+    400564: s_v_74
+    400566: s_v_74 1
+    400568: s_v_74 2
+    400570: s_v_75
+    400572: s_v_75 1
+    400574: s_v_75 2
+    400576: s_v_76
+    400578: s_v_76 1
+    400580: s_v_76 2
+    400582: s_v_77
+    400584: s_v_77 1
+    400586: s_v_77 2
+    400588: s_v_78
+    400590: s_v_78 1
+    400592: s_v_78 2
+    400594: s_v_79
+    400596: s_v_79 1
+    400598: s_v_79 2
+    400600: s_v_8
+    400602: s_v_8 1
+    400604: s_v_8 2
+    400606: s_v_80
+    400608: s_v_80 1
+    400610: s_v_80 2
+    400612: s_v_81
+    400614: s_v_82
+    400616: s_v_83
+    400618: s_v_84
+    400620: s_v_85
+    400622: s_v_86
+    400624: s_v_87
+    400626: s_v_88
+    400628: s_v_89
+    400630: s_v_9
+    400632: s_v_9 1
+    400634: s_v_9 2
+    400636: s_v_90
+    400638: s_v_91
+    400640: s_v_92
+    400642: s_v_93
+    400644: s_v_94
+    400646: s_v_95
+    400648: s_v_96
+    400650: s_v_97
+    400652: s_v_98
+    400654: s_v_99
+    400656: Shell
+    400658: SHIP
+    400660: SL
+    400662: Solar panel
+    400664: SR
+    400666: SSSL
+    400668: SSSR
+    400670: Star Tracker
+    400672: SunShield
+    400674: SunShield0
+    400676: SunShieldL
+    400678: SunShieldR
+    400680: Support-L
+    400682: Support-R
+    400684: Thruster
+    400686: Top
+    400688: UPS
+    400690: UPS-L
+    400692: UPS-R
+    400694: XBOOST
+    2000000: Camera001
+    2000002: Camera002
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2100004: 04 - Default
+    2100006: blinn4SG
+    2100008: blinn6SG
+    2100010: boosters_initial
+    2100012: lambert9SG
+    2100014: lambert4SG
+    2100016: linn3SG
+    2100018: blinn2SG
+    2100020: blk_mliSG
+    2100022: silver_mliSG
+    2100024: twrblkmliSG
+    2100026: bafl_graphiteSG
+    2100028: bafl_black0SG
+    2100030: iec_pnkmli_smlSG
+    2100032: tower_blkmli_tubesSG
+    2100034: bipod_post_pmliSG
+    2100036: initialShadingGroup
+    2100038: asm_covrcleats_hr_car_v001_twr_blkpaintSG
+    2100040: straylgt_blkmliSG
+    2100042: mirror_blinnSG
+    2100044: omnimirror_blinnSG
+    2100046: sc_post_pmliSG1
+    2100048: silver_mliSG1
+    2100050: blk_mliSG1
+    2100052: mboom_boom_pinkmliSG1
+    2100054: mboom_alumSG
+    2100056: mboom_sml_pinkmliSG1
+    2100058: mboom_blkmliSG
+    2100060: mboon_silvermliSG
+    2100062: pinkmliSG
+    2100064: mboom_boom_pinkmliSG
+    2100066: asm_covrcleats_hr_car_v001_mboom_alumSG
+    2100068: asm_corecovrs_hr_car_v002_corecov_smliSG
+    2100070: sc_sml_pmliSG1
+    2100072: prop_alumSG
+    2100074: sc_ring_ssmSG
+    2100076: sc_panels_pmliSG1
+    2100078: sa_edge_goldSG1
+    2100080: prop_drkalumSG
+    2100082: black0_SG
+    2100084: sc_rad_smliSG1
+    2100086: sc_sml_pmliSG
+    2100088: sc_post_pmliSG
+    2100090: sc_panels_pmliSG
+    2100092: whitepaintSG
+    2100094: SunShield2
+    2100096: 07 - Default
+    2100098: blackpaintSG
+    2100100: sacellsSG
+    2100102: sa_edge_goldSG
+    2100104: sc_rad_smliSG
+    2100106: mboom_sml_pinkmliSG
+    2100108: SunShield1
+    2100110: SunShield3
+    2300000: 004
+    2300002: 005
+    2300004: 1
+    2300006: 1 1
+    2300008: 1 2
+    2300010: 1 3
+    2300012: 1 4
+    2300014: 1.1
+    2300016: 1.2
+    2300018: 1.9
+    2300020: 2
+    2300022: 2 1
+    2300024: 2 2
+    2300026: 3
+    2300028: 4
+    2300030: 5
+    2300032: BL
+    2300034: Boost
+    2300036: Bottom
+    2300038: BR
+    2300040: Engine1
+    2300042: Engine2
+    2300044: EXT-L
+    2300046: EXT-R
+    2300048: group13 g1
+    2300050: group13 g5
+    2300052: group13 g6
+    2300054: group13 gr
+    2300056: Inner1
+    2300058: Inner2
+    2300060: L
+    2300062: LegMID
+    2300064: LegTOP
+    2300066: Miroir secondaire
+    2300068: Mirrors
+    2300070: Momentum TT
+    2300072: Plate
+    2300074: polySurfac
+    2300076: R
+    2300078: Shell
+    2300080: SL
+    2300082: SR
+    2300084: SSSL
+    2300086: SSSR
+    2300088: Star Tracker
+    2300090: Thruster
+    2300092: Top
+    2300094: UPS-L
+    2300096: UPS-R
+    3300000: 004
+    3300002: 005
+    3300004: 1
+    3300006: 1 1
+    3300008: 1 2
+    3300010: 1 3
+    3300012: 1 4
+    3300014: 1.1
+    3300016: 1.2
+    3300018: 1.9
+    3300020: 2
+    3300022: 2 1
+    3300024: 2 2
+    3300026: 3
+    3300028: 4
+    3300030: 5
+    3300032: BL
+    3300034: Boost
+    3300036: Bottom
+    3300038: BR
+    3300040: Engine1
+    3300042: Engine2
+    3300044: EXT-L
+    3300046: EXT-R
+    3300048: group13 g1
+    3300050: group13 g5
+    3300052: group13 g6
+    3300054: group13 gr
+    3300056: Inner1
+    3300058: Inner2
+    3300060: L
+    3300062: LegMID
+    3300064: LegTOP
+    3300066: Miroir secondaire
+    3300068: Mirrors
+    3300070: Momentum TT
+    3300072: Plate
+    3300074: polySurfac
+    3300076: R
+    3300078: Shell
+    3300080: SL
+    3300082: SR
+    3300084: SSSL
+    3300086: SSSR
+    3300088: Star Tracker
+    3300090: Thruster
+    3300092: Top
+    3300094: UPS-L
+    3300096: UPS-R
+    4300000: 1.1
+    4300002: 1.2
+    4300004: 1.9
+    4300006: 2
+    4300008: Boost
+    4300010: Top
+    4300012: Engine1
+    4300014: Engine2
+    4300016: 3
+    4300018: group13 g1
+    4300020: group13 g5
+    4300022: group13 g6
+    4300024: group13 gr
+    4300026: polySurfac
+    4300028: Mirrors
+    4300030: 004
+    4300032: 1
+    4300034: Miroir secondaire
+    4300036: LegMID
+    4300038: LegTOP
+    4300040: SSSR
+    4300042: SSSL
+    4300044: Bottom
+    4300046: Plate
+    4300048: Thruster
+    4300050: 2
+    4300052: 1
+    4300054: Star Tracker
+    4300056: 1
+    4300058: 2
+    4300060: 005
+    4300062: 4
+    4300064: 5
+    4300066: UPS-R
+    4300068: UPS-L
+    4300070: Momentum TT
+    4300072: R
+    4300074: L
+    4300076: 1
+    4300078: BL
+    4300080: BR
+    4300082: EXT-L
+    4300084: SL
+    4300086: EXT-R
+    4300088: SR
+    4300090: SunShield0
+    4300092: SunShieldL
+    4300094: SunShieldR
+    4300096: Shell
+    4300098: Inner2
+    4300100: Inner1
+    4300102: 1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SunShield0
+    13700002: SunShieldL
+    13700004: SunShieldR
+    2186277476908879412: ImportLogs
+    6000828045688606266: Camera001
+    6000828045688606268: Camera002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 5000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

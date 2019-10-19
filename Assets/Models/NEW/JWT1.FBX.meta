@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 1c961e8223098c7409fca75ac66c89c9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 004
+    100002: 005
+    100004: 1
+    100006: 1 1
+    100008: 1 2
+    100010: 1 3
+    100012: 1 4
+    100014: 1 5
+    100016: 2
+    100018: 2 1
+    100020: 3
+    100022: 4
+    100024: 4 1
+    100026: 5
+    100028: BL
+    100030: Booster
+    100032: Bottom
+    100034: BR
+    100036: Burst1
+    100038: Burst2
+    100040: Camera001
+    100042: Camera001.Target
+    100044: Camera002
+    100046: Camera002.Target
+    100048: Engine1
+    100050: Engine2
+    100052: EXT-L
+    100054: EXT-R
+    100056: Fuel
+    100058: HG Antenna
+    100060: High
+    100062: Inner1
+    100064: Inner2
+    100066: JWT
+    100068: //RootNode
+    100070: L
+    100072: LegMID
+    100074: LegTOP
+    100076: Low
+    100078: Miroir secondaire
+    100080: Mirrors
+    100082: Momentum TT
+    100084: Plate
+    100086: Plate 1
+    100088: R
+    100090: Radiator
+    100092: S1
+    100094: S2
+    100096: Shell
+    100098: Shell-L
+    100100: Shell-R
+    100102: SL
+    100104: Solar panel
+    100106: SR
+    100108: SSSL
+    100110: SSSR
+    100112: Star Tracker
+    100114: SunShield
+    100116: SunShield0
+    100118: SunShieldL
+    100120: SunShieldR
+    100122: Support-L
+    100124: Support-R
+    100126: Tank
+    100128: Thruster
+    100130: UPS
+    100132: UPS-L
+    100134: UPS-R
+    100136: XBOOST
+    400000: 004
+    400002: 005
+    400004: 1
+    400006: 1 1
+    400008: 1 2
+    400010: 1 3
+    400012: 1 4
+    400014: 1 5
+    400016: 2
+    400018: 2 1
+    400020: 3
+    400022: 4
+    400024: 4 1
+    400026: 5
+    400028: BL
+    400030: Booster
+    400032: Bottom
+    400034: BR
+    400036: Burst1
+    400038: Burst2
+    400040: Camera001
+    400042: Camera001.Target
+    400044: Camera002
+    400046: Camera002.Target
+    400048: Engine1
+    400050: Engine2
+    400052: EXT-L
+    400054: EXT-R
+    400056: Fuel
+    400058: HG Antenna
+    400060: High
+    400062: Inner1
+    400064: Inner2
+    400066: JWT
+    400068: //RootNode
+    400070: L
+    400072: LegMID
+    400074: LegTOP
+    400076: Low
+    400078: Miroir secondaire
+    400080: Mirrors
+    400082: Momentum TT
+    400084: Plate
+    400086: Plate 1
+    400088: R
+    400090: Radiator
+    400092: S1
+    400094: S2
+    400096: Shell
+    400098: Shell-L
+    400100: Shell-R
+    400102: SL
+    400104: Solar panel
+    400106: SR
+    400108: SSSL
+    400110: SSSR
+    400112: Star Tracker
+    400114: SunShield
+    400116: SunShield0
+    400118: SunShieldL
+    400120: SunShieldR
+    400122: Support-L
+    400124: Support-R
+    400126: Tank
+    400128: Thruster
+    400130: UPS
+    400132: UPS-L
+    400134: UPS-R
+    400136: XBOOST
+    2000000: Camera001
+    2000002: Camera002
+    2100000: Base1
+    2100002: Base3
+    2100004: Base4
+    2100006: Metal
+    2100008: linn3SG
+    2100010: blinn2SG
+    2100012: blk_mliSG
+    2100014: silver_mliSG
+    2100016: twrblkmliSG
+    2100018: bafl_graphiteSG
+    2100020: bafl_black0SG
+    2100022: iec_pnkmli_smlSG
+    2100024: tower_blkmli_tubesSG
+    2100026: bipod_post_pmliSG
+    2100028: initialShadingGroup
+    2100030: asm_covrcleats_hr_car_v001_twr_blkpaintSG
+    2100032: straylgt_blkmliSG
+    2100034: mirror_blinnSG
+    2100036: omnimirror_blinnSG
+    2100038: sc_post_pmliSG1
+    2100040: silver_mliSG1
+    2100042: blk_mliSG1
+    2100044: mboom_boom_pinkmliSG1
+    2100046: mboom_alumSG
+    2100048: mboom_sml_pinkmliSG1
+    2100050: mboom_blkmliSG
+    2100052: mboon_silvermliSG
+    2100054: pinkmliSG
+    2100056: mboom_boom_pinkmliSG
+    2100058: asm_covrcleats_hr_car_v001_mboom_alumSG
+    2100060: asm_corecovrs_hr_car_v002_corecov_smliSG
+    2100062: sc_sml_pmliSG1
+    2100064: prop_alumSG
+    2100066: sc_ring_ssmSG
+    2100068: sc_panels_pmliSG1
+    2100070: sa_edge_goldSG1
+    2100072: prop_drkalumSG
+    2100074: black0_SG
+    2100076: sc_rad_smliSG1
+    2100078: sc_sml_pmliSG
+    2100080: sc_post_pmliSG
+    2100082: sc_panels_pmliSG
+    2100084: whitepaintSG
+    2100086: SunShield2
+    2100088: 07 - Default
+    2100090: blackpaintSG
+    2100092: sacellsSG
+    2100094: sa_edge_goldSG
+    2100096: sc_rad_smliSG
+    2100098: mboom_sml_pinkmliSG
+    2100100: SunShield1
+    2100102: SunShield3
+    2300000: 004
+    2300002: 005
+    2300004: 1
+    2300006: 1 1
+    2300008: 1 2
+    2300010: 1 3
+    2300012: 1 4
+    2300014: 1 5
+    2300016: 2
+    2300018: 2 1
+    2300020: 3
+    2300022: 4
+    2300024: 4 1
+    2300026: 5
+    2300028: BL
+    2300030: Booster
+    2300032: Bottom
+    2300034: BR
+    2300036: Burst1
+    2300038: Burst2
+    2300040: Engine1
+    2300042: Engine2
+    2300044: EXT-L
+    2300046: EXT-R
+    2300048: High
+    2300050: Inner1
+    2300052: Inner2
+    2300054: L
+    2300056: LegMID
+    2300058: LegTOP
+    2300060: Low
+    2300062: Miroir secondaire
+    2300064: Mirrors
+    2300066: Momentum TT
+    2300068: Plate
+    2300070: Plate 1
+    2300072: R
+    2300074: S1
+    2300076: S2
+    2300078: Shell
+    2300080: Shell-L
+    2300082: Shell-R
+    2300084: SL
+    2300086: SR
+    2300088: SSSL
+    2300090: SSSR
+    2300092: Star Tracker
+    2300094: SunShield0
+    2300096: SunShieldL
+    2300098: SunShieldR
+    2300100: Tank
+    2300102: Thruster
+    2300104: UPS-L
+    2300106: UPS-R
+    3300000: 004
+    3300002: 005
+    3300004: 1
+    3300006: 1 1
+    3300008: 1 2
+    3300010: 1 3
+    3300012: 1 4
+    3300014: 1 5
+    3300016: 2
+    3300018: 2 1
+    3300020: 3
+    3300022: 4
+    3300024: 4 1
+    3300026: 5
+    3300028: BL
+    3300030: Booster
+    3300032: Bottom
+    3300034: BR
+    3300036: Burst1
+    3300038: Burst2
+    3300040: Engine1
+    3300042: Engine2
+    3300044: EXT-L
+    3300046: EXT-R
+    3300048: High
+    3300050: Inner1
+    3300052: Inner2
+    3300054: L
+    3300056: LegMID
+    3300058: LegTOP
+    3300060: Low
+    3300062: Miroir secondaire
+    3300064: Mirrors
+    3300066: Momentum TT
+    3300068: Plate
+    3300070: Plate 1
+    3300072: R
+    3300074: S1
+    3300076: S2
+    3300078: Shell
+    3300080: Shell-L
+    3300082: Shell-R
+    3300084: SL
+    3300086: SR
+    3300088: SSSL
+    3300090: SSSR
+    3300092: Star Tracker
+    3300094: SunShield0
+    3300096: SunShieldL
+    3300098: SunShieldR
+    3300100: Tank
+    3300102: Thruster
+    3300104: UPS-L
+    3300106: UPS-R
+    4300000: Shell-L
+    4300002: Shell-R
+    4300004: Booster
+    4300006: High
+    4300008: Low
+    4300010: Engine1
+    4300012: Burst1
+    4300014: Engine2
+    4300016: Burst2
+    4300018: Tank
+    4300020: S2
+    4300022: 4
+    4300024: 3
+    4300026: S1
+    4300028: 1
+    4300030: Plate
+    4300032: Mirrors
+    4300034: 004
+    4300036: 1
+    4300038: Miroir secondaire
+    4300040: LegMID
+    4300042: LegTOP
+    4300044: SSSR
+    4300046: SSSL
+    4300048: Bottom
+    4300050: Plate
+    4300052: Thruster
+    4300054: 2
+    4300056: 1
+    4300058: Star Tracker
+    4300060: 1
+    4300062: 2
+    4300064: 005
+    4300066: 4
+    4300068: 5
+    4300070: UPS-R
+    4300072: UPS-L
+    4300074: Momentum TT
+    4300076: R
+    4300078: L
+    4300080: 1
+    4300082: SunShield0
+    4300084: SunShieldL
+    4300086: SunShieldR
+    4300088: BL
+    4300090: BR
+    4300092: EXT-L
+    4300094: SL
+    4300096: EXT-R
+    4300098: SR
+    4300100: Shell
+    4300102: Inner2
+    4300104: Inner1
+    4300106: 1
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+    6000828045688606266: Camera001
+    6000828045688606268: Camera002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

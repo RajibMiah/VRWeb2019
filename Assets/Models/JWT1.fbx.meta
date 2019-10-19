@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 9a447bea42fd7c04b8b0f345e3567145
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 001
+    100002: 004
+    100004: 1
+    100006: 1.1
+    100008: 1.2
+    100010: 1.9
+    100012: 2
+    100014: 3
+    100016: Camera001
+    100018: Camera001.Target
+    100020: Camera002
+    100022: Camera002.Target
+    100024: Cylinder001
+    100026: Engine1
+    100028: Engine2
+    100030: group13 g1
+    100032: group13 g5
+    100034: group13 g6
+    100036: group13 gr
+    100038: JWT
+    100040: //RootNode
+    100042: Miroir et instruments
+    100044: Miroir secondaire
+    100046: Object001
+    100048: Object002
+    100050: Object003
+    100052: Object004
+    100054: Object005
+    100056: Object006
+    100058: Object008
+    100060: Object009
+    100062: Object010
+    100064: Object011
+    100066: Object012
+    100068: Panneaux solaire 01
+    100070: Pannneaux solaires 02
+    100072: polySurfac
+    100074: structure
+    100076: Voiles
+    100078: Voiles001
+    100080: Voiles002
+    100082: XBOOST
+    400000: 001
+    400002: 004
+    400004: 1
+    400006: 1.1
+    400008: 1.2
+    400010: 1.9
+    400012: 2
+    400014: 3
+    400016: Camera001
+    400018: Camera001.Target
+    400020: Camera002
+    400022: Camera002.Target
+    400024: Cylinder001
+    400026: Engine1
+    400028: Engine2
+    400030: group13 g1
+    400032: group13 g5
+    400034: group13 g6
+    400036: group13 gr
+    400038: JWT
+    400040: //RootNode
+    400042: Miroir et instruments
+    400044: Miroir secondaire
+    400046: Object001
+    400048: Object002
+    400050: Object003
+    400052: Object004
+    400054: Object005
+    400056: Object006
+    400058: Object008
+    400060: Object009
+    400062: Object010
+    400064: Object011
+    400066: Object012
+    400068: Panneaux solaire 01
+    400070: Pannneaux solaires 02
+    400072: polySurfac
+    400074: structure
+    400076: Voiles
+    400078: Voiles001
+    400080: Voiles002
+    400082: XBOOST
+    2000000: Camera001
+    2000002: Camera002
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2100004: blinn4SG
+    2100006: blinn6SG
+    2100008: boosters_initial
+    2100010: lambert9SG
+    2100012: lambert4SG
+    2100014: 04 - Default
+    2100016: linn3SG
+    2100018: blinn2SG
+    2100020: blk_mliSG
+    2100022: silver_mliSG
+    2100024: twrblkmliSG
+    2100026: bafl_graphiteSG
+    2100028: bafl_black0SG
+    2100030: iec_pnkmli_smlSG
+    2100032: tower_blkmli_tubesSG
+    2100034: bipod_post_pmliSG
+    2100036: initialShadingGroup
+    2100038: asm_covrcleats_hr_car_v001_twr_blkpaintSG
+    2100040: straylgt_blkmliSG
+    2100042: mirror_blinnSG
+    2100044: omnimirror_blinnSG
+    2100046: sc_post_pmliSG1
+    2100048: mboom_sml_pinkmliSG
+    2100050: asm_covrcleats_hr_car_v001_mboom_alumSG
+    2100052: mboom_boom_pinkmliSG
+    2100054: pinkmliSG
+    2100056: sc_panels_pmliSG1
+    2100058: prop_drkalumSG
+    2100060: sacellsSG
+    2100062: sa_edge_goldSG
+    2100064: sc_rad_smliSG
+    2100066: mboom_boom_pinkmliSG1
+    2100068: mboom_alumSG
+    2100070: mboom_sml_pinkmliSG1
+    2100072: mboom_blkmliSG
+    2100074: mboon_silvermliSG
+    2100076: sc_rad_smliSG1
+    2100078: asm_corecovrs_hr_car_v002_corecov_smliSG
+    2100080: sc_sml_pmliSG1
+    2100082: prop_alumSG
+    2100084: sc_ring_ssmSG
+    2100086: sa_edge_goldSG1
+    2100088: black0_SG
+    2100090: blackpaintSG
+    2100092: whitepaintSG
+    2100094: sc_sml_pmliSG
+    2100096: sc_post_pmliSG
+    2100098: sc_panels_pmliSG
+    2100100: shld_silv1SG
+    2100102: shld_pink1SG
+    2100104: blk_mliSG1
+    2100106: silver_mliSG1
+    2300000: 004
+    2300002: 1
+    2300004: 1.1
+    2300006: 1.2
+    2300008: 1.9
+    2300010: 2
+    2300012: 3
+    2300014: Cylinder001
+    2300016: Engine1
+    2300018: Engine2
+    2300020: group13 g1
+    2300022: group13 g5
+    2300024: group13 g6
+    2300026: group13 gr
+    2300028: Miroir et instruments
+    2300030: Miroir secondaire
+    2300032: Object001
+    2300034: Object002
+    2300036: Object003
+    2300038: Object004
+    2300040: Object005
+    2300042: Object006
+    2300044: Object008
+    2300046: Object009
+    2300048: Object010
+    2300050: Object011
+    2300052: Object012
+    2300054: Panneaux solaire 01
+    2300056: Pannneaux solaires 02
+    2300058: polySurfac
+    2300060: structure
+    2300062: Voiles
+    2300064: Voiles001
+    2300066: Voiles002
+    3300000: 004
+    3300002: 1
+    3300004: 1.1
+    3300006: 1.2
+    3300008: 1.9
+    3300010: 2
+    3300012: 3
+    3300014: Cylinder001
+    3300016: Engine1
+    3300018: Engine2
+    3300020: group13 g1
+    3300022: group13 g5
+    3300024: group13 g6
+    3300026: group13 gr
+    3300028: Miroir et instruments
+    3300030: Miroir secondaire
+    3300032: Object001
+    3300034: Object002
+    3300036: Object003
+    3300038: Object004
+    3300040: Object005
+    3300042: Object006
+    3300044: Object008
+    3300046: Object009
+    3300048: Object010
+    3300050: Object011
+    3300052: Object012
+    3300054: Panneaux solaire 01
+    3300056: Pannneaux solaires 02
+    3300058: polySurfac
+    3300060: structure
+    3300062: Voiles
+    3300064: Voiles001
+    3300066: Voiles002
+    4300000: 1.1
+    4300002: 1.2
+    4300004: 1.9
+    4300006: 2
+    4300008: Engine1
+    4300010: Engine2
+    4300012: 3
+    4300014: group13 g1
+    4300016: group13 g5
+    4300018: group13 g6
+    4300020: group13 gr
+    4300022: polySurfac
+    4300024: Cylinder001
+    4300026: Miroir et instruments
+    4300028: Miroir secondaire
+    4300030: Object001
+    4300032: Object002
+    4300034: Object003
+    4300036: Object004
+    4300038: Object005
+    4300040: Object006
+    4300042: Object008
+    4300044: Object009
+    4300046: Object010
+    4300048: Object011
+    4300050: Object012
+    4300052: Panneaux solaire 01
+    4300054: Pannneaux solaires 02
+    4300056: structure
+    4300058: Voiles
+    4300060: Voiles001
+    4300062: 1
+    4300064: 004
+    4300066: Voiles002
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+    6000828045688606266: Camera001
+    6000828045688606268: Camera002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
