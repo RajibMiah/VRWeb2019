@@ -209,7 +209,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &19656494
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3612,7 +3612,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Videos
+  m_Text: jwst Manufacturer
 --- !u!222 &662119562
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5362,7 +5362,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Videos
+  m_Text: all about jwst
 --- !u!222 &908397413
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6085,7 +6085,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1158142125
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7883,7 +7883,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Videos
+  m_Text: jwst
 --- !u!222 &1393438643
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8301,7 +8301,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Videos
+  m_Text: Nasa talk
 --- !u!222 &1459828243
 CanvasRenderer:
   m_ObjectHideFlags: 0
