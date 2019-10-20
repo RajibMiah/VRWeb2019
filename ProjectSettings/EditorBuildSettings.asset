@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleSceneVRExperience.unity
     guid: c579876364bd1b048820ef9ae91352a4
+  - enabled: 1
+    path: Assets/Scenes/LaunchPad.unity
+    guid: 2a6d27036e20c4b4eb5f39914779b21a
   m_configObjects: {}

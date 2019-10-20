@@ -7,6 +7,8 @@ public class AnimationScript2: MonoBehaviour
     public GameObject panelAnimation;
     public GameObject JWT1;
     public GameObject JWT2;
+    public GameObject bar1;
+    public GameObject bar2;
     public MouseOrbitImproved orbit;
     public VRCameraFade fade;
     private Animator anim1, anim2;
@@ -90,8 +92,12 @@ public class AnimationScript2: MonoBehaviour
         JWT2.gameObject.SetActive(false);
         orbit.target = JWT1.transform;
         panelAnimation.SetActive(false);
+        bar2.SetActive(false);
+        bar1.SetActive(true);
         yield return new WaitForSeconds(anim1.GetCurrentAnimatorStateInfo(0).length);
         fade.FadeIn(false);
+        bar1.SetActive(false);
+        bar2.SetActive(true);
         JWT1.gameObject.SetActive(false);
         JWT2.gameObject.SetActive(true);
         orbit.target = JWT2.transform;

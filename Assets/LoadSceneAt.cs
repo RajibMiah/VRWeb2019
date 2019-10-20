@@ -1,18 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class LoadSceneAt : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public float delay = 1f;
+    public string sceneName;
     void Start()
     {
-        
+        Invoke("LoadScene",delay);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void LoadScene()
     {
-        
+        SceneManager.LoadScene(sceneName);
     }
 }
