@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 344994280}
-  m_IndirectSpecularColor: {r: 0.012085921, g: 0.01547717, b: 0.008272781, a: 1}
+  m_IndirectSpecularColor: {r: 0.11257232, g: 0.13076216, b: 0.08808931, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -6692,7 +6692,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100100, guid: 9a447bea42fd7c04b8b0f345e3567145, type: 3}
-  - {fileID: 2100102, guid: 9a447bea42fd7c04b8b0f345e3567145, type: 3}
+  - {fileID: 2100092, guid: 7b70ba06e1d451f4eb716f237a98bb0f, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9763,7 +9763,7 @@ MeshRenderer:
   - {fileID: 2100032, guid: 9a447bea42fd7c04b8b0f345e3567145, type: 3}
   - {fileID: 2100034, guid: 9a447bea42fd7c04b8b0f345e3567145, type: 3}
   - {fileID: 2100036, guid: 9a447bea42fd7c04b8b0f345e3567145, type: 3}
-  - {fileID: 2100038, guid: 9a447bea42fd7c04b8b0f345e3567145, type: 3}
+  - {fileID: 2100000, guid: 4575bd78bb554b54ca5c47dda4bdca1c, type: 2}
   - {fileID: 2100040, guid: 9a447bea42fd7c04b8b0f345e3567145, type: 3}
   - {fileID: 2100042, guid: 9a447bea42fd7c04b8b0f345e3567145, type: 3}
   - {fileID: 2100044, guid: 9a447bea42fd7c04b8b0f345e3567145, type: 3}
