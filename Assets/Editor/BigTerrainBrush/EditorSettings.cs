@@ -2,7 +2,7 @@
 using UnityEditor;
 using System.Collections;
 using System.Collections.Generic;
-
+#if UNITY_EDITOR
 public static class EditorSettings 
 {
 	public static EditorScriptable CreateEditorSettings()
@@ -34,3 +34,4 @@ public static class EditorSettings
 	}
 
 }
+#endif

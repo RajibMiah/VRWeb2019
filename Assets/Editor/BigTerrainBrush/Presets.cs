@@ -2,7 +2,7 @@
 using UnityEditor;
 using System.Collections;
 using System.Collections.Generic;
-
+#if UNITY_EDITOR
 public static class Presets 
 {
 	public static PresetsScriptable CreatePresets()
@@ -35,3 +35,4 @@ public static class Presets
 	}
 
 }
+#endif

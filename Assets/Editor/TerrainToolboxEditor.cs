@@ -3,12 +3,12 @@ using UnityEditor;
 using System.Collections;
 using System.Collections.Generic;
 
-
+#if UNITY_EDITOR
 public class TerrainToolboxEditor : EditorWindow 
 {
 	[MenuItem ("Window/BigTerrainBrush")]
 
-	#region Start
+#region Start
 
 	static void Init () 
 	{		
@@ -34,9 +34,9 @@ public class TerrainToolboxEditor : EditorWindow
 		SceneView.onSceneGUIDelegate -= this.OnSceneGUI;
 		EditorApplication.update += Update;
 	}
-	#endregion
+#endregion
 	
-	#region Variables
+#region Variables
 	
 	//Terrains
 	public Transform terrainsParent;
@@ -242,27 +242,27 @@ public class TerrainToolboxEditor : EditorWindow
 	Vector3 TestPoint;
 
 	
-	#endregion
+#endregion
 
-	#region PresetsVars
+#region PresetsVars
 
 	PresetsScriptable presetsObject;
 	List<string> presets = new List<string>();
 	int presetsIndex = 0;	
 	string newPresetName = "";
 
-	#endregion
+#endregion
 
-	#region Splines
+#region Splines
 
 	//List<Vector3> splinePoints = new List<Vector3>();
 	//List<GameObject> handles = new List<GameObject>();
 
 	SplineObject spline;
 
-	#endregion
+#endregion
 
-	#region EditTerrain
+#region EditTerrain
 	int defaultTerrainSize = 0;
 	int heighmapResolution = 0;
 	int defaultTerrainHeight = 0;
@@ -279,7 +279,7 @@ public class TerrainToolboxEditor : EditorWindow
 	int defaultDetailRes = 512;
 	int defaultResPerPatch = 8;
 	int defaultBaseTextureRes = 1024;
-	#endregion
+#endregion
 
 
 
@@ -294,7 +294,7 @@ public class TerrainToolboxEditor : EditorWindow
 	}	
 	
 	
-	#region GUI Functions
+#region GUI Functions
 	
 	void OnGUI()
 	{	
@@ -994,9 +994,9 @@ public class TerrainToolboxEditor : EditorWindow
 
 	}
 
-	#endregion
+#endregion
 
-	#region EditTerrainData
+#region EditTerrainData
 
 	void ShowEditTerrainsData()
 	{
@@ -1219,9 +1219,9 @@ public class TerrainToolboxEditor : EditorWindow
 		}
 	}
 
-	#endregion
+#endregion
 					
-	#region Init
+#region Init
 	
 	//At the start of initialize, clean up everything
 	void ResetAll()
@@ -1297,9 +1297,9 @@ public class TerrainToolboxEditor : EditorWindow
 		terrainPosY = terrains[0].transform.position.y;
 	}
 	
-	#endregion
+#endregion
 	
-	#region Terrain Editor
+#region Terrain Editor
 	
 	//Points which represent each terrain height value as 3d space point. These points are used to create sculpt points from which meshes are created and base points are also used to project data from meshes back onto terrains, because BasePoint holds access to the terrainData so it can be
 	//assigned back
@@ -1483,9 +1483,9 @@ public class TerrainToolboxEditor : EditorWindow
 	}			
 
 	
-	#endregion
+#endregion
 	
-	#region Edit Terrain
+#region Edit Terrain
 	
 	void EditTerrain()
 	{
@@ -1791,9 +1791,9 @@ public class TerrainToolboxEditor : EditorWindow
 	}	
 
 	
-	#endregion
+#endregion
 	
-	#region Project Back
+#region Project Back
 
 	//Take interpolated start points, remove those from original points to find out difference. then apply this difference when points are projected back at the end
 
@@ -2163,9 +2163,9 @@ public class TerrainToolboxEditor : EditorWindow
 		}
 	}
 	
-	#endregion
+#endregion
 	
-	#region Creator
+#region Creator
 	
 	void CreateTerrain()
 	{		
@@ -2248,9 +2248,9 @@ public class TerrainToolboxEditor : EditorWindow
 		}
 	}
 
-	#endregion
+#endregion
 	
-	#region Presets
+#region Presets
 
 
 	void ShowPresetsSettings()
@@ -2429,9 +2429,9 @@ public class TerrainToolboxEditor : EditorWindow
 		}		
 	}
 	
-	#endregion
+#endregion
 
-	#region Brush	
+#region Brush	
 	
 	void Brush(ref Vector3 hitPosition)
 	{
@@ -2775,9 +2775,9 @@ public class TerrainToolboxEditor : EditorWindow
 		}
 	}
 	
-	#endregion
+#endregion
 
-	#region Splines
+#region Splines
 
 	void InitializeSpline()
 	{
@@ -2819,9 +2819,9 @@ public class TerrainToolboxEditor : EditorWindow
 
 	}
 
-	#endregion
+#endregion
 
-	#region Smoothing
+#region Smoothing
 	
 	void SmoothSculptIterations()
 	{
@@ -3205,9 +3205,9 @@ public class TerrainToolboxEditor : EditorWindow
 	}
 	
 	
-	#endregion
+#endregion
 		
-	#region Scene GUI
+#region Scene GUI
 
 	void OnSceneGUI(SceneView sceneView)
 	{	
@@ -3493,9 +3493,10 @@ public class TerrainToolboxEditor : EditorWindow
 
 	}	
 	
-	#endregion	
+#endregion
 	
 }
+#endif
 
 
 

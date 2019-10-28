@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+#if UNITY_EDITOR
 [System.Serializable]
 public class TerrainScriptable : ScriptableObject
 {
@@ -10,3 +10,4 @@ public class TerrainScriptable : ScriptableObject
 	public string terrainName = "";
 	public string terrainDataName = "";
 }
+#endif

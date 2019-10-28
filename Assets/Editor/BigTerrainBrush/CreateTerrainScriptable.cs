@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEditor;
-
+#if UNITY_EDITOR
 public class CreateTerrainScriptable : MonoBehaviour {
 
 	public static TerrainScriptable CreateTerrain(int index, string presetName)
@@ -20,3 +20,4 @@ public class CreateTerrainScriptable : MonoBehaviour {
 		return scripObj;
 	}
 }
+#endif
